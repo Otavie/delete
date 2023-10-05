@@ -1,1 +1,2 @@
 New file
+Content from new-branch
